@@ -46,8 +46,5 @@ This repository tracks my progress as I learn data analysis. It includes notes, 
 3. Data Analysis Exam 1
 4. Data Analysis Exam 2
 
-## Progress Tracker
-[Click here to view my progress tracker](progress-tracker.md)
-
 ## Reflections
 [Click here to view my reflections](reflections.md)
