@@ -2,7 +2,6 @@
 
 This repository tracks my progress as I learn data analysis. It includes notes, projects, and reflections on each module.
 
-## Repository Structure
 
 ### **Phase 1: Setting Up GitHub & Core Skills**
 
